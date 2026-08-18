@@ -10,7 +10,7 @@ The following are exported into ```/path/to/BlockStory/BepInEx/GeneralExporterOu
 0. Achievements
 0. Recipes 
 
-If Recipe Loader is available, exported recipes will be converted to Recipe Loader recipes if possible.
+If [Recipe Loader](https://github.com/dustiee/Recipe-Loader) is available, exported recipes will be converted to Recipe Loader recipes if possible.
 
 **NOTE:** GeneralExporter automatically clears the subdirectories in ```GeneralExporterOutput``` before populating them.
 Please move the files you want to modify out of ```GeneralExporterOutput``` before making changes to them.
@@ -21,7 +21,7 @@ Please move the files you want to modify out of ```GeneralExporterOutput``` befo
 
 ### Optional Requirements 
 
-0. <u>Recipe Loader</u> for Block Story properly installed.
+0. <u>[Recipe Loader](https://github.com/dustiee/Recipe-Loader)</u> for Block Story properly installed.
 
 ## Installation 
 
